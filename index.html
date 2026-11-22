@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Roster Gate</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="gate-page">
+  <video id="bg-video" class="bg-media" autoplay muted loop playsinline></video>
+  <div id="bg-image" class="bg-media bg-img"></div>
+  <div class="overlay"></div>
+  <main class="gate-box">
+    <img id="group-logo" class="group-logo" alt="Group Logo" />
+    <p id="sub-title" class="sub">LOADING...</p>
+    <h1 id="group-name" class="title">GROUP</h1>
+    <button id="enter-btn" class="enter-btn">Member List</button>
+
+    <section class="partners-box">
+      <div class="partners-label">PARTNERS</div>
+      <div id="partners-list" class="partners-list"></div>
+    </section>
+
+    <div id="socials-box" class="socials"></div>
+  </main>
+
+  <script src="gate.js"></script>
+  <script src="music-player.js"></script>
+</body>
+</html>

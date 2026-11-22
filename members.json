@@ -1,0 +1,43 @@
+{
+  "groupName": "UltimateGoal",
+  "subTitle": "members list",
+  "logoUrl": "Screenshot__141_-removebg-preview.png",
+  "bgVideoUrl": "",
+  "bgImageUrl": "./919909625_1892669701737883_5316706765007211_n.jpg",
+  "partners": [
+    { "name": "PARTNER 01", "tag": "Partner", "url": "#" },
+    { "name": "PARTNER 02", "tag": "Partner", "url": "#" }
+  ],
+  "socials": {
+    "discord": "https://discord.gg/",
+    "facebook": "https://facebook.com/"
+  },
+  "music": {
+    "title": "แล้วบอกพวกกัน",
+    "url": "./M6IX - แล้วบอกว่าพวกกัน.mp3",
+    "volume": 0.5
+  },
+  "members": [
+    { "id": 1, "name": "Highjaxk FivedoubleEight", "role": "Founder", "tag": "FOUNDER", "platform": "Highjaxk.588", "facebook": "https://www.facebook.com/highjaxk588#" },
+    { "id": 2, "name": "Nlycan Winterfell", "role": "Founder", "tag": "FOUNDER", "platform": "Nlycan.Winterfell", "facebook": "https://www.facebook.com/profile.php?id=61590605939364#" },
+    { "id": 3, "name": "James Winterfell", "role": "Leader", "tag": "LEADER", "platform": "James.Winterfell", "facebook": "https://www.facebook.com/profile.php?id=61596162668452#" },
+    { "id": 4, "name": "Ryuma Diff", "role": "Leader", "tag": "LEADER", "platform": "ryuma.diff", "facebook": "https://www.facebook.com/ryuma.diff" },
+    { "id": 5, "name": "Bigbas TatarosxAgi", "role": "Member", "tag": "MEMBER", "platform": "Bigbas.TatarosxAgi", "facebook": "https://www.facebook.com/bigbas.wtfdelta" },
+    { "id": 6, "name": "Bxngto Winterfell", "role": "Member", "tag": "MEMBER", "platform": "Bxngto.Winterfell", "facebook": "https://www.facebook.com/profile.php?id=61592412629422#" },
+    { "id": 7, "name": "Hades Winterfell", "role": "Member", "tag": "MEMBER", "platform": "Hades.Winterfell", "facebook": "https://www.facebook.com/profile.php?id=61596875692278#" },
+    { "id": 8, "name": "Haryu Diamondonsnow", "role": "Member", "tag": "MEMBER", "platform": "Haryu.Diamondonsnow", "facebook": "https://www.facebook.com/hxryuuhizy#" },
+    { "id": 9, "name": "Hope UltimateGoal", "role": "Member", "tag": "MEMBER", "platform": "Hope.UltimateGoal", "facebook": "https://www.facebook.com/profile.php?id=61596498674293#" },
+    { "id": 10, "name": "Jhydn Highneverdie", "role": "Member", "tag": "MEMBER", "platform": "Jhydn.Highneverdie", "facebook": "https://www.facebook.com/profile.php?id=61562948486849#" },
+    { "id": 11, "name": "Jxhn Awake", "role": "Member", "tag": "MEMBER", "platform": "Jxhn.Awake", "facebook": "https://www.facebook.com/profile.php?id=61594891851901#" },
+    { "id": 12, "name": "Moji UltimateGoal", "role": "Member", "tag": "MEMBER", "platform": "Moji.UltimateGoal", "facebook": "https://www.facebook.com/hana.moji.90#" },
+    { "id": 13, "name": "Narumi Winterfell", "role": "Member", "tag": "MEMBER", "platform": "Narumi.Winterfell", "facebook": "https://www.facebook.com/narumi.smp#" },
+    { "id": 14, "name": "Nongchi Ninefourone", "role": "Member", "tag": "MEMBER", "platform": "Nongchi.Ninefourone", "facebook": "https://www.facebook.com/profile.php?id=61592808661754#" },
+    { "id": 15, "name": "Nøngħopequïnn Skibidibidiilyoutensai", "role": "Member", "tag": "MEMBER", "platform": "Nøngħopequïnn.Skibidibidiilyoutensai", "facebook": "https://www.facebook.com/profile.php?id=61587409981687#" },
+    { "id": 16, "name": "Parda TatarosxRagnarok", "role": "Member", "tag": "MEMBER", "platform": "Parda.TatarosxRagnarok", "facebook": "https://www.facebook.com/profile.php?id=61595365107495#" },
+    { "id": 17, "name": "Point UltimateGoal", "role": "Member", "tag": "MEMBER", "platform": "Point.UltimateGoal", "facebook": "https://www.facebook.com/point.wtfzera#" },
+    { "id": 18, "name": "Sandvvich Yourfavcat", "role": "Member", "tag": "MEMBER", "platform": "Sandvvich.Yourfavcat", "facebook": "https://www.facebook.com/yourfavcatsandwich#" },
+    { "id": 19, "name": "Seven Ultimeategoal", "role": "Member", "tag": "MEMBER", "platform": "Seven.Ultimeategoal", "facebook": "https://www.facebook.com/profile.php?id=61596505119424#" },
+    { "id": 20, "name": "Shxk Vega", "role": "Member", "tag": "MEMBER", "platform": "Shxk.Vega", "facebook": "https://www.facebook.com/profile.php?id=61596578819879#" },
+    { "id": 21, "name": "Warzone Fdestyle", "role": "Member", "tag": "MEMBER", "platform": "Warzone.Fdestyle", "facebook": "https://www.facebook.com/wzsmp.588#" }
+  ]
+}
